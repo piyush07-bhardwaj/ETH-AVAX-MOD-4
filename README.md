@@ -7,8 +7,6 @@ Degen Gaming Token (ERC20)
 ##### IMPORTANT: Make sure you have metamask installed and are on [avalanche fuji chain](https://chainlist.org/chain/43113?testnets=true) before using the webiste. You also need some test-AVAX in your account for gas fees.
 ---
 
-Website Live at https://bhardwajrizul.github.io/DegenToken-Metacrafters/
-
 ## Description 📑
 The Degen Gaming Token (DGN) is a custom ERC20 token designed for Degen Gaming Studio. It enables players to earn rewards while playing the game and transfer or redeem these tokens for various items on the dengen mart webiste.
 ## Application Preview 📸
