@@ -42,8 +42,7 @@ To see how the Degen Mart Webiste and DegenToken contract were developed using t
 **Note:** Make sure to provide your private key inside `hardaht.config.js`
 7. Start the webiste using `npm run dev`
 8. Interact with the deployed contract by using the webiste that utilizes Ethers.js.
-> For detailed installation guide check out this repository:
-https://github.com/bhardwajrizul/Avalanche-hardhat-starter
+9. 
 ## Contributing
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
 ## Acknowledgements 🤝
